@@ -1,0 +1,12 @@
+{
+ "servers": [
+  {
+   "alias": "ap-southeast-1",
+   "region": "ap-southeast-1",
+   "ip": "18.141.141.181",
+   "port": 25509,
+   "last_update": "2022-05-28T09:37:51.693177221Z",
+   "status": "ACTIVE"
+  }
+ ]
+}

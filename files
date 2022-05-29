@@ -1,8 +1,8 @@
 {
  "servers": [
   {
-   "alias": "us-west-2",
-   "region": "us-west-2",
+   "alias": "us-west-",
+   "region": "us-west-",
    "ip": "34.222.51.252",
    "port": 24344,
    "last_update": "2022-05-29T09:28:57.970301629Z",

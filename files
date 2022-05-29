@@ -1,9 +1,9 @@
 {
  "servers": [
   {
-   "alias": "ap-southeast-2",
-   "region": "ap-southeast-2",
-   "ip": "18.141.141.181",
+   "alias": "ap-southeast-1",
+   "region": "ap-southeast-1",
+   "ip": "192.168.100.1",
    "port": 25509,
    "last_update": "2022-05-29T07:13:12.018575335Z",
    "status": "ACTIVE"

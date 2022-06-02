@@ -1,11 +1,11 @@
 {
  "servers": [
   {
-   "alias": "us-west-2",
-   "region": "us-west-2",
-   "ip": "34.222.51.252",
-   "port": 24344,
-   "last_update": "2022-06-02T05:04:17.971150985Z",
+   "alias": "ap-southeast-1",
+   "region": "ap-southeast-1",
+   "ip": "18.141.141.180",
+   "port": 25509,
+   "last_update": "2022-06-02T10:16:51.697332137Z",
    "status": "ACTIVE"
   }
  ]

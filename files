@@ -1,11 +1,11 @@
 {
  "servers": [
   {
-   "alias": "sa-east-1",
-   "region": "sa-east-1",
-   "ip": "15.228.240.18",
-   "port": 23318,
-   "last_update": "2022-05-29T23:45:15.629621872Z",
+   "alias": "us-west-2",
+   "region": "us-west-2",
+   "ip": "34.222.51.252",
+   "port": 24344,
+   "last_update": "2022-06-02T05:04:17.971150985Z",
    "status": "ACTIVE"
   }
  ]
